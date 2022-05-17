@@ -2,7 +2,7 @@
 
 Team Members - Sweta T,Sneka J,Ruthrapriya S
 
-Full project with all the images attached is given in this repository link - 
+Full project with all the images attached is given in this repository link - https://github.com/SwetaThanu08/Final_App_AndroidClubTask
 
 Kindly go through the above link which is common for our team members.
 
@@ -23,14 +23,13 @@ App name: ThinkUp
 - This app is designed to inspire you with positive affirmations and self-talk — a proven technique to make your mind work for you.
 - Further, the randomized quotes can be tweeted in twitter.
 
+
 <h1> Contributions </h1>
 
-- All three members contributed equally in the logic,styling and debugging of "MainScreen.js" which contains the core component of the project.
+- All three members contributed equally in the logic,styling and debugging of all screens of the project.
 
-- Sweta: Integrating the API with the App and generating the code
+- Sweta: Integrating the API with the App ,generating the code and creating the MainScreen
 - Sneka: Styling, Screen code ,quotes
-- Ruthrapriya: Buttons, Icons, Navigation
-
-
+- Ruthrapriya: Buttons, Icons, Navigation, Merging of Screens
 
 
