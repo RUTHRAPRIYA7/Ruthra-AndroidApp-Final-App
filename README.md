@@ -1,4 +1,4 @@
-# Ruthra-AndroidApp-Task-7
+# Ruthra-AndroidApp-FinalApp
 
 Team Members - Sweta T,Sneka J,Ruthrapriya S
 
